@@ -67,6 +67,7 @@ print(list_of_nums)
 
 ## Output:
 ![Screenshot_20230128_090304](https://user-images.githubusercontent.com/121029258/215275207-3faadb09-d058-45fb-aa16-5e3203a190cc.png)
+
 ![Screenshot_20230128_090323](https://user-images.githubusercontent.com/121029258/215275211-c96331e6-d103-4796-874c-176890087437.png)
 
 
